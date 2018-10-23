@@ -6,7 +6,7 @@ bl_info = {
     "name": "Align Origin",
     "description": "Tool to align object's origin",
     "version": (0, 0, 1),
-    "category": "Object",
+    "category": "Object"
 }
 
 
